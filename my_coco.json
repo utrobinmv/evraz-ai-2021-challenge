@@ -1,4 +1,0 @@
-{
-	"images": [{"id": 1, "width": 1920, "height": 1080, "file_name": "oz_frame548.jpg"}],
-	"annotations": [{"id": 1, "image_id": 1, "category_id": 1, "segmentation": [], "area": 9660.228599999999, "bbox": [838.78, 268.37, 59.62, 162.03], "iscrowd": 0, "attributes": {"occluded": false}}]
-}
