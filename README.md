@@ -27,3 +27,9 @@ run
 dock_build.sh
 dock_run.sh
 ```
+
+
+
+Остальные файлы и датасет лежат по ссылке
+
+https://disk.yandex.ru/d/xL9gZwOXskx9yw
