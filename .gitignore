@@ -4,8 +4,10 @@ __pycache__/
 *$py.class
 .ipynb_checkpoints
 checkpoints/
-dataset/
 runs/
+dataset/test
+dataset/train
+dataset/train2
 weights/
 *.csv
 *.wpr
